@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛に抱かれた夜",
+  "base_artist": "Cutting Crew",
+  "createdAt": "2025-12-23T13:25:55.992201Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛に抱かれた夜",
+      "artist": "Cutting Crew",
+      "has_synced": false,
+      "path": "select/pl_01_愛に抱かれた夜_Cutting_Crew.txt"
+    }
+  ]
+}
